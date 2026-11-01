@@ -18,3 +18,4 @@ This repository contains all Object Oriented Programming (OOP) practical assignm
 - **Practical-12**: Java Collections Framework (Unique Visitors, Word Frequency)
 - **Practical-13**: Java Generics (Bounded Stats, Generic Containers, Box, Pair)
 - **Practical-14**: Comprehensive Banking Application & Account Services
+- **MiniBank**: Complete Core Banking System implementation (concurrency, annotations, custom exceptions, repositories, services, and unit tests)
